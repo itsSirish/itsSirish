@@ -1,5 +1,55 @@
 ## Hi there 👋
 
+
+# Hi there, I'm [Your Name]! 👋
+
+## 🚀 About Me
+- 🎓 Master's in Computer Science @ NYU Tandon School of Engineering  
+- 🔭 Specializing in **Computer Vision**, **Machine Learning**, and **AI Models**  
+- 📊 Researching EEG–fMRI translation and large-scale foundation models  
+- 💼 Founder of **MyoMetrics MRI** & **PinToBeans**
+
+**GPA:** 4.0 (First Semester)  
+**Courses:** [List your top courses]  
+
+---
+
+## 🧠 Experience
+- **Researcher @ Neuroinformatics Lab (NYU)**  
+  - Built EEG↔fMRI translators using BrainLM/CBraMod  
+  - Designed multi-modal alignment pipelines with attention mechanisms  
+
+- **[Other role/project]**  
+  - Brief impact-focused bullet points  
+
+---
+
+## 🌟 Research Interests
+- 🖼️ Computer Vision  
+- 🤖 Deep Learning & Generative AI  
+- 🧠 Neuroscience & Brain–Computer Interfaces  
+- 🔍 Multimodal AI  
+
+---
+
+## 💻 Technical Skills
+**Languages**: Python, C++, JavaScript  
+**AI/ML**: PyTorch, TensorFlow, Transformers, Stable Diffusion, YOLOv5  
+**Data Science**: NumPy, Pandas, Matplotlib  
+**Tools**: Git, Docker, HPC/SLURM  
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect With Me
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [Google Scholar](YOUR_SCHOLAR_LINK) • [Email](mailto:YOUR_EMAIL)
+
+
+
 <!--
 **itsSirish/itsSirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
