@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sirish Visweswar! 👋
 
 ## 🚀 About Me
 - 🎓 Master's in Computer Science @ NYU Tandon School of Engineering  
