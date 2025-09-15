@@ -6,10 +6,8 @@
 - 🎓 Master's in Computer Science @ NYU Tandon School of Engineering  
 - 🔭 Specializing in **Computer Vision**, **Machine Learning**, and **AI Models**  
 - 📊 Researching EEG–fMRI translation and large-scale foundation models  
-- 💼 Founder of **MyoMetrics MRI** & **PinToBeans**
 
-**GPA:** 4.0 (First Semester)  
-**Courses:** [List your top courses]  
+**Courses:** [Machine Learning, Game Design, Reinforcement Learning, Neuroinformatics, Databse Systems, Big Data, Software Engineering]  
 
 ---
 
@@ -18,8 +16,6 @@
   - Built EEG↔fMRI translators using BrainLM/CBraMod  
   - Designed multi-modal alignment pipelines with attention mechanisms  
 
-- **[Other role/project]**  
-  - Brief impact-focused bullet points  
 
 ---
 
