@@ -65,9 +65,9 @@ Outside of tech, I enjoy creating art, which keeps me grounded and feeds into my
 
 ## 📈 GitHub Stats  
 
-![Sirish's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsSirish&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsSirish&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsSirish&theme=radical)  
+![Sirish's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsSirish&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsSirish&layout=compact&theme=radical&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsSirish&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
